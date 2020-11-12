@@ -107,4 +107,8 @@ TEAM,AIC,South,UCF,UCF,85,USF,,,,,,,
 # COACH,UGA,Max Bishop,38,69,65,81,90,Smashmouth,Cover 2,,,,
 # COACH,USF,Alex Cruz,46,67,60,67,90,Balanced,4-6 Bear,,,,
 # COACH,MD,Roland Schwartz,48,65,75,81,90,Balanced,Aggressive,,,,
+# Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
+# Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
+# Player format:,Team,Position,Name,Year (String),Height,Weight,Stars,,,,,,
+# OR:,Team,Position,Name,Year (String),Height,Weight,Potential,Football IQ,Durability,Attribute1,Attribute2,Attribute3,Attribute4
 END_FILE,,,,,,,,,,,,,
