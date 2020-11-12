@@ -51,18 +51,6 @@ TEAM,Big Ten,East,Michigan St,MSU,75,RUT,,,,,,,
 TEAM,Big Ten,East,Indiana,IND,70,PUR,,,,,,,
 TEAM,Big Ten,East,Rutgers,RUT,55,MSU,,,,,,,
 TEAM,Big Ten,East,Pittsburgh,PITT,80,PSU,,,,,,,
-
-
-
-
-
-
-
-
-
-
-
-
 # Big12,,,,,,,,,,,,,
 TEAM,Big 12,North,Kansas St,KSU,70,KU,,,,,,,
 TEAM,Big 12,North,Oklahoma,OKL,95,TEX,,,,,,,
@@ -120,4 +108,3 @@ TEAM,AIC,South,UCF,UCF,85,USF,,,,,,,
 # COACH,USF,Alex Cruz,46,67,60,67,90,Balanced,4-6 Bear,,,,
 # COACH,MD,Roland Schwartz,48,65,75,81,90,Balanced,Aggressive,,,,
 END_FILE,,,,,,,,,,,,,
-
