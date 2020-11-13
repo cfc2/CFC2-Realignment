@@ -96,15 +96,4 @@ TEAM,AIC,South,Memphis,MEM,80,CIN,,,
 TEAM,AIC,South,USF,USF,65,UCF,,,
 TEAM,AIC,South,Tulane,TULN,50,APP,,,
 TEAM,AIC,South,UCF,UCF,85,UCF,,,
-# Coach format:,Team,Name,Age,Offense,Defense,Recruiting,Training,Off Scheme,Def Scheme
-# COACH,ALA,Nick Saban,69,90,90,90,90,Pro Style,Conservative
-# COACH,CLEM,Dabo Swinney,51,90,90,90,90,Pro Style,Conservative
-# COACH,OKL,Lester Gardner,37,68,87,85,90,Smashmouth,Conservative
-# COACH,OSU,Jake Shah,43,58,69,65,90,Spread,Balanced
-# COACH,ND,LeRoy Diaz,50,78,69,62,90,Smashmouth,Cover 2
-# COACH,TEX,Riley Ellis,38,81,59,91,90,Pro Style,Cover 2
-# COACH,USC,Josue Hardy,32,70,73,66,90,Balanced,4-6 Bear
-# COACH,UGA,Max Bishop,38,69,65,81,90,Smashmouth,Cover 2
-# COACH,USF,Alex Cruz,46,67,60,67,90,Balanced,4-6 Bear
-# COACH,MD,Roland Schwartz,48,65,75,81,90,Balanced,Aggressive
 END_FILE,,,,,,,,,
