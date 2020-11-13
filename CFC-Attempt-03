@@ -96,7 +96,7 @@ TEAM,AIC,South,Memphis,MEM,80,CIN,,,
 TEAM,AIC,South,USF,USF,65,UCF,,,
 TEAM,AIC,South,Tulane,TULN,50,APP,,,
 TEAM,AIC,South,UCF,UCF,85,UCF,,,
-# Coaches
+# Coaches,,,,,,,,,
 # Coach format:,Team,Name,Age,Offense,Defense,Recruiting,Training,Off Scheme,Def Scheme
 COACH,ALA,Nick Saban,69,90,90,90,90,Pro Style,Conservative
 COACH,CLEM,Dabo Swinney,51,90,90,90,90,Pro Style,Conservative
